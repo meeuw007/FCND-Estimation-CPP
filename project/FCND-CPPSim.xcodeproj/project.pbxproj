@@ -49,6 +49,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		656EEEFE20EBF2FD005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Std_calculation.ipynb; path = ../../../Std_calculation.ipynb; sourceTree = "<group>"; };
+		656EEEFF20EC1CC4005C76C2 /* Write_Up_ESTIMATION_PROJECT_FCND.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Write_Up_ESTIMATION_PROJECT_FCND.pdf; path = ../../../Write_Up_ESTIMATION_PROJECT_FCND.pdf; sourceTree = "<group>"; };
 		DB076C8A202A34C500386052 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		DB31989E20334078008ACD56 /* Simulation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Simulation.txt; path = ../config/Simulation.txt; sourceTree = "<group>"; };
 		DB3198A320334078008ACD56 /* QuadPhysicalParams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = QuadPhysicalParams.txt; path = ../config/QuadPhysicalParams.txt; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		DB31989C2033405F008ACD56 /* config */ = {
 			isa = PBXGroup;
 			children = (
+				656EEEFE20EBF2FD005C76C2 /* Std_calculation.ipynb */,
 				DB953DAB2097BC4500B82E7B /* 01_Intro.txt */,
 				DB953DAA2097BC4400B82E7B /* 02_AttitudeControl.txt */,
 				DB953DA62097BC4400B82E7B /* 03_PositionControl.txt */,
@@ -197,6 +200,7 @@
 		DB49FAD5202A039100DED4E6 = {
 			isa = PBXGroup;
 			children = (
+				656EEEFF20EC1CC4005C76C2 /* Write_Up_ESTIMATION_PROJECT_FCND.pdf */,
 				DB31989C2033405F008ACD56 /* config */,
 				DB49FB34202A0CC600DED4E6 /* src */,
 				DB49FADF202A039100DED4E6 /* Products */,
@@ -531,6 +535,7 @@
 					../src,
 					../lib,
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-Wno-deprecated",
@@ -550,6 +555,7 @@
 					../src/,
 					../lib/,
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-Wno-deprecated",
