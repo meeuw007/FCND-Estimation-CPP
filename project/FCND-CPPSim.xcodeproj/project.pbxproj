@@ -53,6 +53,7 @@
 		656EEF0120EC1EA8005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Std_calculation.ipynb; sourceTree = "<group>"; };
 		656EEF0220EC1FD7005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Std_calculation.ipynb; sourceTree = "<group>"; };
 		656EEF0320ED52B2005C76C2 /* Write_Up_Estimation.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Write_Up_Estimation.pdf; path = ../../../Write_Up_Estimation.pdf; sourceTree = "<group>"; };
+		656EEF0420ED53FA005C76C2 /* Write_Up_Estimation.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Write_Up_Estimation.pdf; sourceTree = "<group>"; };
 		DB076C8A202A34C500386052 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		DB31989E20334078008ACD56 /* Simulation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Simulation.txt; path = ../config/Simulation.txt; sourceTree = "<group>"; };
 		DB3198A320334078008ACD56 /* QuadPhysicalParams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = QuadPhysicalParams.txt; path = ../config/QuadPhysicalParams.txt; sourceTree = "<group>"; };
@@ -165,6 +166,7 @@
 			children = (
 				DB953DAB2097BC4500B82E7B /* 01_Intro.txt */,
 				DB953DAA2097BC4400B82E7B /* 02_AttitudeControl.txt */,
+				656EEF0420ED53FA005C76C2 /* Write_Up_Estimation.pdf */,
 				DB953DA62097BC4400B82E7B /* 03_PositionControl.txt */,
 				DB953DA92097BC4400B82E7B /* 04_Nonidealities.txt */,
 				DB953DAD2097BC4500B82E7B /* 05_TrajectoryFollow.txt */,
