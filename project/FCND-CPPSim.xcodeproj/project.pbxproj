@@ -49,7 +49,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		656EEEFE20EBF2FD005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Std_calculation.ipynb; path = ../../../Std_calculation.ipynb; sourceTree = "<group>"; };
 		656EEF0020EC1DCC005C76C2 /* Write_Up_ESTIMATION_PROJECT_FCND.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Write_Up_ESTIMATION_PROJECT_FCND.pdf; sourceTree = "<group>"; };
 		656EEF0120EC1EA8005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Std_calculation.ipynb; sourceTree = "<group>"; };
 		656EEF0220EC1FD7005C76C2 /* Std_calculation.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; path = Std_calculation.ipynb; sourceTree = "<group>"; };
@@ -163,8 +162,6 @@
 		DB31989C2033405F008ACD56 /* config */ = {
 			isa = PBXGroup;
 			children = (
-				656EEEFE20EBF2FD005C76C2 /* Std_calculation.ipynb */,
-				656EEF0020EC1DCC005C76C2 /* Write_Up_ESTIMATION_PROJECT_FCND.pdf */,
 				DB953DAB2097BC4500B82E7B /* 01_Intro.txt */,
 				DB953DAA2097BC4400B82E7B /* 02_AttitudeControl.txt */,
 				DB953DA62097BC4400B82E7B /* 03_PositionControl.txt */,
@@ -204,6 +201,7 @@
 			isa = PBXGroup;
 			children = (
 				656EEF0220EC1FD7005C76C2 /* Std_calculation.ipynb */,
+				656EEF0020EC1DCC005C76C2 /* Write_Up_ESTIMATION_PROJECT_FCND.pdf */,
 				DB31989C2033405F008ACD56 /* config */,
 				DB49FB34202A0CC600DED4E6 /* src */,
 				DB49FADF202A039100DED4E6 /* Products */,
